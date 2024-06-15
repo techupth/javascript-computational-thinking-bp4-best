@@ -82,3 +82,5 @@ let orders = [
 ];
 
 // Start coding here
+
+//โจทย์กับ Code ไม่ตรงกันครับ
